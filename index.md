@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/ayarahmoun/ayarahmoun.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Image](https://github.com/ayarahmoun/ayarahmoun.github.io/blob/main/iStock-607610082.jpeg)
+![Image](https://github.com/ayarahmoun/ayarahmoun.github.io/blob/main/iStock-607610082.JPG)
 
 ### Abstract
 
