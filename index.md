@@ -12,28 +12,14 @@ This <em>word</em> is italic.
 Political polarization, as defined in Wikipedia, is the extent to which opinions on an issue are opposed. It is assumed that polarization in the world in general, and in the US in particular, has been increasing over the past years. But, is it really the case? Has the polarization been always increasing over past years? In this project, we suggest a data-driven approach to quantify the polarization, and observe how it evolves over time. We explore the possibility of defining a similarity measure between politicians based on their quotes. Once we do this, we would like to study the difference between different political ideologies (mainly left and right) in order to see if there is a significant difference in their quotes.
 
 
-<!-- Tab links -->
-<div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
-  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
-  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
-</div>
-
-<!-- Tab content -->
-<div id="London" class="tabcontent">
-  <h3>London</h3>
-  <p>London is the capital city of England.</p>
-</div>
-
-<div id="Paris" class="tabcontent">
-  <h3>Paris</h3>
-  <p>Paris is the capital of France.</p>
-</div>
-
-<div id="Tokyo" class="tabcontent">
-  <h3>Tokyo</h3>
-  <p>Tokyo is the capital of Japan.</p>
-</div>
+<nav>
+    <ul>
+        <li><a href="this.html">This</a></li>
+        <li id="selected"><a href="that.html">That</a></li>
+        <li><a href="theOther.html">The Other</a></li>
+        <li><a href="banana.html">Banana</a></li>
+    </ul>
+</nav>
 
 ## Quarterly Results {.tabset}
 
