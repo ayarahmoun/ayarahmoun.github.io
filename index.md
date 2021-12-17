@@ -18,12 +18,7 @@ Political polarization, as defined in Wikipedia, is the extent to which opinions
 | First body part | Second cell  | Third cell      | fourth cell    |
 | Second line     | foo          | **strong**      | baz            |
 | Third line      | quux         | baz             | bar            |
-|-----------------+--------------+-----------------+----------------|
-| Second body     |              |                 |                |
-| 2nd line        |              |                 |                |
-|-----------------+--------------+-----------------+----------------|
-| Third body      |              |                 | Foo            |
-{: .custom-class #custom-id}
+
 
 
 
