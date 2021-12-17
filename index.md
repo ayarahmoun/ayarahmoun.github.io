@@ -31,7 +31,6 @@ oki
 
 
 
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/bmabey/pyLDAvis@3.3.1/pyLDAvis/js/ldavis.v1.0.0.css">
 
 
 <div id="ldavis_el6281405549068825122999647095"></div>
