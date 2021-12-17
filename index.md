@@ -40,7 +40,7 @@ oki
     </ul>
 </nav>
 
-[Link](https://github.com/ayarahmoun/ayarahmoun.github.io/blob/main/republican_lda_vis_2020.html) 
+[R visu 2020](https://github.com/ayarahmoun/ayarahmoun.github.io/blob/main/republican_lda_vis_2020.html) 
 
 
 ## Quarterly Results {.tabset}
