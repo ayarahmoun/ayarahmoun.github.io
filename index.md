@@ -1,24 +1,25 @@
 ## The American Political Landscape : Polarization between the Left and Right-wing
 
-You can use the [editor on GitHub](https://github.com/ayarahmoun/ayarahmoun.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ![Image](usflag.JPG)
 
-### Abstract
-This <em>word</em> is italic.
+## Abstract
 
 Political polarization, as defined in Wikipedia, is the extent to which opinions on an issue are opposed. It is assumed that polarization in the world in general, and in the US in particular, has been increasing over the past years. But, is it really the case? Has the polarization been always increasing over past years? In this project, we suggest a data-driven approach to quantify the polarization, and observe how it evolves over time. We explore the possibility of defining a similarity measure between politicians based on their quotes. Once we do this, we would like to study the difference between different political ideologies (mainly left and right) in order to see if there is a significant difference in their quotes.
 
-### Analysis throughout the years
+## Does this quote dataset show the differences and contrasts between right-wing and left-wing politicians ?
+## How to define a similarity between politicians ? Can we derive such a measure of similarity ?
+## According to this definition, do speakers with the same positioning show a higher level of similarity?
+## Clustering the speakers based on this measure, do these clusters match with the ideological left/right separation ?
+## Through time, how the distance between these clusters evolve ? Can we relate this evolution to some major historic events ?
+## How does the politicians speech vary depending on the educational degree?
+
+### Analysis throughout the years 
 
 | Default aligned | Left aligned | Center aligned  | Right aligned  |
 |-----------------|:-------------|:---------------:|---------------:|
 | First body part | Second cell  | Third cell      | fourth cell    |
 | Second line     | foo          | **strong**      | baz            |
 | Third line      | quux         | baz             | bar            |
-
 
 
 
@@ -50,6 +51,8 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+
+This <em>word</em> is italic.
 
 1. Numbered
 2. List
