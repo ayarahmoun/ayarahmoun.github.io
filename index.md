@@ -40,6 +40,9 @@ oki
     </ul>
 </nav>
 
+[Link](https://github.com/ayarahmoun/ayarahmoun.github.io/blob/main/republican_lda_vis_2020.html) 
+
+
 ## Quarterly Results {.tabset}
 
 ### By Product
@@ -67,7 +70,9 @@ This <em>word</em> is italic.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://github.com/ayarahmoun/ayarahmoun.github.io/blob/main/iStock-607610082.jpeg)
+[Republican visu 2020](https://github.com/ayarahmoun/ayarahmoun.github.io/blob/main/republican_lda_vis_2020.html) 
+
+and ![Image](https://github.com/ayarahmoun/ayarahmoun.github.io/blob/main/iStock-607610082.jpeg)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
