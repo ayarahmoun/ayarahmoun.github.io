@@ -2,6 +2,9 @@
 
 ![Image](usflag.JPG)
 
+<em>"<strong>This</strong> is an example sentence."</em> -<strong>OP</strong> c du html 
+
+
 ## Abstract
 
 Political polarization, as defined in Wikipedia, is the extent to which opinions on an issue are opposed. It is assumed that polarization in the world in general, and in the US in particular, has been increasing over the past years. But, is it really the case? Has the polarization been always increasing over past years? In this project, we suggest a data-driven approach to quantify the polarization, and observe how it evolves over time. We explore the possibility of defining a similarity measure between politicians based on their quotes. Once we do this, we would like to study the difference between different political ideologies (mainly left and right) in order to see if there is a significant difference in their quotes.
